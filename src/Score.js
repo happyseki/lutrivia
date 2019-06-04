@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 class Score extends Component{
   render(){
     return(
-      <div>Score: 1</div>
+      <div>Score: 0</div>
     )
   }
 }
